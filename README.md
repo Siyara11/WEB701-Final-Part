@@ -7,9 +7,7 @@ acquire a token for an item and show a claim code at pickup, where the member **
 Emerging technologies: **Progressive Web App** (service worker + manifest: installable, works offline)
 and **WebSockets** via Socket.IO (real-time stock and token notifications).
 
-## Links
-- Report: `docs/WEB701_Milestone3_Report.docx`
-- Project board: _add your GitHub Project link here_
+
 
 ## Repository structure
 ```
