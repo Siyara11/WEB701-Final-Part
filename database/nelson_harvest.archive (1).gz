@@ -1,0 +1,52 @@
+[{
+	"_id": {
+		"$oid": "6afd8d39c48112322663e672"
+	},
+	"name": "Tama Wilson",
+	"email": "tama@mail.nz",
+	"password": "$2b$10$QbPHNNgvqwToby/kkzD9suy5sKnwMvQWgwU.43dHQY0II1qJFH.mC",
+	"role": "beneficiary",
+	"tokens": 5,
+	"createdAt": {
+		"$date": "2026-11-18T11:34:17.671Z"
+	},
+	"updatedAt": {
+		"$date": "2026-11-18T11:34:17.671Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6afd8d39c48112322663e670"
+	},
+	"name": "Aroha Smith",
+	"email": "aroha@harvest.nz",
+	"password": "$2b$10$QbPHNNgvqwToby/kkzD9suy5sKnwMvQWgwU.43dHQY0II1qJFH.mC",
+	"role": "member",
+	"tokens": 0,
+	"createdAt": {
+		"$date": "2026-11-18T11:34:17.671Z"
+	},
+	"updatedAt": {
+		"$date": "2026-11-18T11:34:17.671Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6afd8d39c48112322663e671"
+	},
+	"name": "Nelson Bakery",
+	"email": "bakery@harvest.nz",
+	"password": "$2b$10$QbPHNNgvqwToby/kkzD9suy5sKnwMvQWgwU.43dHQY0II1qJFH.mC",
+	"role": "member",
+	"tokens": 0,
+	"createdAt": {
+		"$date": "2026-11-18T11:34:17.671Z"
+	},
+	"updatedAt": {
+		"$date": "2026-11-18T11:34:17.671Z"
+	},
+	"__v": 0
+}]
+

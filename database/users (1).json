@@ -1,0 +1,54 @@
+[{
+	"_id": {
+		"$oid": "6afd8d39c48112322663e682"
+	},
+	"product": {
+		"$oid": "6afd8d39c48112322663e678"
+	},
+	"productName": "Haircut voucher",
+	"beneficiary": {
+		"$oid": "6afd8d39c48112322663e672"
+	},
+	"member": {
+		"$oid": "6afd8d39c48112322663e670"
+	},
+	"tokens": 4,
+	"code": "BC26C3",
+	"status": "accepted",
+	"acceptedAt": {
+		"$date": "2026-11-18T11:34:17.681Z"
+	},
+	"createdAt": {
+		"$date": "2026-11-18T11:34:17.681Z"
+	},
+	"updatedAt": {
+		"$date": "2026-11-18T11:34:17.681Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6afd8d39c48112322663e683"
+	},
+	"product": {
+		"$oid": "6afd8d39c48112322663e676"
+	},
+	"productName": "Fresh apples (1kg)",
+	"beneficiary": {
+		"$oid": "6afd8d39c48112322663e672"
+	},
+	"member": {
+		"$oid": "6afd8d39c48112322663e670"
+	},
+	"tokens": 1,
+	"code": "6F87EA",
+	"status": "pending",
+	"createdAt": {
+		"$date": "2026-11-18T11:34:17.681Z"
+	},
+	"updatedAt": {
+		"$date": "2026-11-18T11:34:17.681Z"
+	},
+	"__v": 0
+}]
+
